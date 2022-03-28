@@ -10,7 +10,7 @@ import dateformat from 'dateformat'
 
 export default function Bookmark() {
 
-  const path = "http://localhost:5000/uploads/"
+  const path = "https://res.cloudinary.com/dzaddvrer/image/upload/v1648199200/"
 
   const [bookmarks, setBookmarks] = useState([])
 
