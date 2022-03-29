@@ -31,7 +31,7 @@ export default function Jumbotron() {
       <header className='relative'>
         <div className='bg-jumbotron h-96 brightness-75'/>
         <div className="w-full md:px-20 md:py-4 top-0 absolute">
-          <nav className="md:flex justify-between items-center w-full z-20">
+          <nav className="flex justify-between items-center w-full z-20">
             <div className="navLogo">
               <img src={logo} alt="logo" className='cursor-pointer'/>
             </div>

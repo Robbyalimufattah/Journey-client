@@ -13,7 +13,6 @@ export default function Navbar() {
 
   return (
     <>
-
       <nav className='shadow-xl'>
         <div className="mx-4 lg:mx-20 mt-4 flex justify-between items-center" >
           <Link to="/">
